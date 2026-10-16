@@ -1,0 +1,3 @@
+# PROTOTYP – Suchmaschinen bitte nichts aufnehmen
+User-agent: *
+Disallow: /
